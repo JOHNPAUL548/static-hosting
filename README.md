@@ -8,8 +8,11 @@ CLOUD FRONT - content to be delivered at edge location (CDN)
 CERTIFICATE MANAGER - used to get custom SSL certificate for your website
 S3 - used to store all the files and make it available to accesss anywhere from the world 
 
-TOOLS USED : 
+
+TOOLS USED :
+
 GITHUB - To host your code 
 CICD - track the changes in github and implement in Pipeline
+
 
 LINKS : 
