@@ -2,6 +2,7 @@
 HOSTING A STATIC WEBSITE ON AWS
 
 CLOUD SERVICE USED : 
+
 ROUTE 53 for domain name system (DNS)
 CLOUD FRONT - content to be delivered at edge location (CDN)
 CERTIFICATE MANAGER - used to get custom SSL certificate for your website
