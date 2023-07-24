@@ -1,4 +1,4 @@
-1st challenge of #10weeks of cloudops
+1st challenge of #10weeks of cloudops     <br>
 HOSTING A STATIC WEBSITE ON AWS
 
 CLOUD SERVICE USED : 
