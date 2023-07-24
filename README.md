@@ -1,0 +1,2 @@
+# static-hosting
+HOSTING A STATIC WENSITE ON AWS
