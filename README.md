@@ -16,4 +16,8 @@ HOSTING A STATIC WEBSITE ON AWS
 * CICD - track the changes in github and implement in Pipeline   <br>
 
 
-3. LINKS : 
+3. LINKS :   <br>
+
+* Linkedin link : https://lnkd.in/gSEwTANe
+* Blogpost link : https://lnkd.in/gMuDinQp
+
